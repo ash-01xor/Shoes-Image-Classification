@@ -1,6 +1,6 @@
 # Shoes-Image-Classification 
 
-Classification of Shoes using Transfer Learning.
+Classification of Shoes using Deep Learning via Transfer Learning.
 
 ### Problem Statement:
 Classifying goods using the correct commodity code is the most important step in import management. These codes tell customs officials what is being imported, if the goods are admissible, and what taxes, if any, are due. 
@@ -28,3 +28,34 @@ The dataset consists of 5 classes
 - Brogue
 - Clog
 - Sneaker
+
+consisting of images of type .jpeg
+
+The directory structure of the dataset
+```
+Shoes Dataset/
+    Train/
+        class1/
+            img1.jpeg
+            ...
+        class2/
+            imga.jpeg
+            ...
+    Valid/
+        class1/
+            img2.jpeg
+            ...
+        class2/
+            imgb.jpeg
+            ...
+    Test/
+        class1/
+            img3.jpeg
+            ...
+        class2/
+            imgc.jpeg
+            ...
+```
+
+However Validation Folder isnt entirely needed if would like to like specify another dataset.
+The model takes in validation dataset from the training dataset itself.
