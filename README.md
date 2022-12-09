@@ -28,5 +28,3 @@ The dataset consists of 5 classes
 - Brogue
 - Clog
 - Sneaker
-
-Thanks for viewing the project , if you like my work feel free to check my other projects!
