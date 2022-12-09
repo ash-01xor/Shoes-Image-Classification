@@ -29,4 +29,4 @@ The dataset consists of 5 classes
 - Clog
 - Sneaker
 
-
+Thanks for viewing the project , if you like my work feel free to check my other projects!
