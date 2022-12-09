@@ -30,6 +30,3 @@ The dataset consists of 5 classes
 - Sneaker
 
 
-### License
-
-
